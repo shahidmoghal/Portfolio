@@ -1509,8 +1509,8 @@ header .logo a {
 	float: left;
 }
 .intro-info .lead {
-	text-align: left;
-	padding-left: 15rem;
+	text-align: center;
+
 }
 
 .about-content {
